@@ -1,0 +1,21 @@
+{
+  "name": "divi-100-random-background",
+  "version": "0.0.1",
+  "description": "",
+  "main": "random-background.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "cd grunt && npm install",
+    "grunt": "cd grunt && grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyhqtran/divi-100-random-background.git"
+  },
+  "author": "Andy Tran <hello@andytran.me>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/andyhqtran/divi-100-random-background/issues"
+  },
+  "homepage": "https://github.com/andyhqtran/divi-100-random-background#readme"
+}
