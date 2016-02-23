@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "init": "cd grunt && npm install",
-    "grunt": "cd grunt && grunt"
+    "grunt": "cd grunt && grunt",
+    "submodule": "git submodule foreach git pull origin master"
   },
   "repository": {
     "type": "git",
